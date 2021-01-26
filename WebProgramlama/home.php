@@ -2,19 +2,14 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Anasayfa</title>
 
-  <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-  <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-  <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
 
 
   <script> 
@@ -33,12 +28,8 @@
 
     }
 
-
   </script> 
 
-
-  <style>
-  </style>
 </head>
 
 <body>
@@ -90,15 +81,12 @@
     </div>
 
     <div class="col-md-6">
-
       <h5 class="text-secondary d-flex">Siparişleriniz
         <span class="badge badge-secondary">3</span>
       </h5>
-
       <p id="ekmek"></p>
       <p id="cikolata"></p>
       <p id="domates"></p>
-
       <div class="toast" data-autohide="false">
         <div class="toast-body">
           Somun ekmek
@@ -107,19 +95,14 @@
 
     </div>  
 
-
     <div class="text-center">
-
       <p>© Fehim KÖYLÜ Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
       </p>
       <a href="#">
       Bölüm sayfası </a><a href="#">Alışveriş kuralları</a><a href="#"> Destek</a>
-
     </div>
 
   </div>
-
-
 
 </body>
 </html>
